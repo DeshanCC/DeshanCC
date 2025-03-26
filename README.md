@@ -12,7 +12,7 @@ I'm a full-stack software engineer based in Victoria, Australia. I am passionate
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Java, JavaScript, TypeScript
+- **Languages:** Java, JavaScript, TypeScript, Python
 - **Frameworks & Libraries:** Angular, Spring Boot, Node.js
 - **Tools:** Git, Docker, Jenkins
 - **Concepts:** RESTful APIs, Microservices, Agile methodologies
